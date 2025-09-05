@@ -149,3 +149,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+SRR/
+slurm-outputs/
+ccom_database/
+cco_mapped/
+crh_mapped/
+ref_genome/
+fastq/
